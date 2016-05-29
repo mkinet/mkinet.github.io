@@ -11,19 +11,3 @@ ggplot(iris,aes(x=Petal.Length,y=Petal.Width,col=Species))+geom_point()
 ```
 
 
-    
-
-
-
-![svg](output_0_1.svg)
-
-
-
-```R
-
-```
-
-
-```R
-
-```
