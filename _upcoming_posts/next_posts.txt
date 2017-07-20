@@ -1,0 +1,6 @@
+- explore gradient descent variants
+- Compare gradient descent with Newton Raphson method and quasi newton
+- Compare Lasso and Ridge on dependant predictors
+- Use prophet to predict PV production
+- (Wavelets, what they are etc)
+- train deep neural net with greedy layer wise optim hyper param tuning.
